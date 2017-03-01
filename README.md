@@ -6,8 +6,8 @@
   1、ECMAScript 6 入门
   http://es6.ruanyifeng.com/
 
-2、node.js中文文档
-http://nodejs.cn/api/
+  2、node.js中文文档
+  http://nodejs.cn/api/
 
 4、Node入门----一本全面的node.js教程
 http://www.nodebeginner.org/index-zh-cn.html
