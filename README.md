@@ -1,8 +1,10 @@
 # KELIN
 漫漫路上遇见：
 
-1、ECMAScript 6 入门
-http://es6.ruanyifeng.com/
+
+一、JavaScript
+  1、ECMAScript 6 入门
+  http://es6.ruanyifeng.com/
 
 2、node.js中文文档
 http://nodejs.cn/api/
